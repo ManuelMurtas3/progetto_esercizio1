@@ -10,3 +10,4 @@ reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla
 pariatur.
 * Nuova riga aggiunta nel branch master *
+* Modifica Lorem.txt in branch modifica1 *
